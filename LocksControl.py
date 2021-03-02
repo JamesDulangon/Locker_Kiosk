@@ -1,4 +1,5 @@
 #JAMES STEVEN C. DULANGON
+#Add camera functionality
 from gpiozero import DigitalOutputDevice, DigitalInputDevice
 from time import sleep
 from signal import pause
